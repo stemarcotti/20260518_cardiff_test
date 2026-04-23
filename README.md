@@ -1,2 +1,2 @@
-# 20260518_cardiff_test
+# 20260518 Cardiff workshop repository test
 test for Git session
